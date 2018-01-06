@@ -1,5 +1,5 @@
 
-[B]1.0.0 (2018.01.04)[/B]
+[B]1.0.0 (2018.01.06)[/B]
 - Added very slow RealDebrid cache inspection. Use with caution: https://gaiakodi.com/support/?a=15
 - Updated Premiumize to work with the new API.
 - Added new debrid service OffCloud.
@@ -49,6 +49,7 @@
 - Major updates to the debrid, download, and connection process.
 - Fixed background progress dialog crashes.
 - Reduced Alluc default limit.
+- Update API communication.
 
 
 
