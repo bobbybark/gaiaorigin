@@ -1,5 +1,5 @@
 
-[B]1.0.0 (2018.01.10)[/B]
+[B]1.0.0 (2018.01.12)[/B]
 - Added very slow RealDebrid cache inspection. Use with caution: https://gaiakodi.com/support/?a=15
 - Updated Premiumize to work with the new API.
 - Added new debrid service OffCloud.
