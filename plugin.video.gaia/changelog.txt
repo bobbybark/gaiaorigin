@@ -1,4 +1,8 @@
 
+[B]1.1.3 (2018.01.16)[/B]
+- Minor fix with the automatic settings backup option.
+- Fixed various filter settings for debrid services.
+
 [B]1.1.2 (2018.01.16)[/B]
 - Fixed custom color selection setting.
 - Fixed the voucher hand outs.
