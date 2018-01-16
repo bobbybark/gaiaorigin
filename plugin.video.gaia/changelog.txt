@@ -1,4 +1,17 @@
 
+[B]1.1.0 (2018.01.16)[/B]
+- Massive speed improvements across the addon.
+- Fixed RealDebrid account authentication.
+- Support for native RealDebrid cache inspection.
+- Fixed NoobsAndNerds custom location.
+- Fixed Premiumize cloud folder detection.
+- Fixed Premiumize provider file detection.
+- Fixed Premiumize non-cached download process.
+- Fixed Android detection.
+- Disabled additional languages in setup wizard.
+- Changed default provider settings.
+- Fixed theme for splash dialogs.
+
 [B]1.0.0 (2018.01.12)[/B]
 - Added very slow RealDebrid cache inspection. Use with caution: https://gaiakodi.com/support/?a=15
 - Updated Premiumize to work with the new API.
