@@ -1,4 +1,7 @@
 
+[B]1.1.4 (2018.01.17)[/B]
+- Improved RealDebrid cache inspection.
+
 [B]1.1.3 (2018.01.16)[/B]
 - Minor fix with the automatic settings backup option.
 - Fixed various filter settings for debrid services.
