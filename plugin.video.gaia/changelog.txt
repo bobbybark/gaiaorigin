@@ -1,4 +1,13 @@
 
+[B]1.1.5 (2018.01.18)[/B]
+- RealDebrid download dialog fixed.
+- Fixed the local downloader icon issue.
+- Added version number to the log output.
+- Premiumze ZIP download fixed.
+- Fixed the NoobsAndNerds provider selection.
+- Metalliq integration fixed.
+- Added French YggTorrent provider.
+
 [B]1.1.4 (2018.01.17)[/B]
 - Improved RealDebrid cache inspection.
 
