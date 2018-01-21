@@ -1,4 +1,7 @@
 
+[B]1.1.7 (2018.01.21)[/B]
+- Fixed automatic settings backup.
+
 [B]1.1.6 (2018.01.21)[/B]
 - Added option to force autoplay on preemptive termination.
 - Added user agent to download requests.
