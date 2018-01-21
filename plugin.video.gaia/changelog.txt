@@ -1,4 +1,8 @@
 
+[B]1.1.6 (2018.01.21)[/B]
+- Added option to force autoplay on preemptive termination.
+- Added user agent to download requests.
+
 [B]1.1.5 (2018.01.18)[/B]
 - RealDebrid download dialog fixed.
 - Fixed the local downloader icon issue.
