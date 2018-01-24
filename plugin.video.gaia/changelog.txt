@@ -1,4 +1,8 @@
 
+[B]1.1.8 (2018.01.24)[/B]
+- Fixed IMDb lists.
+- Fixed the preemptive termination overwrite.
+
 [B]1.1.7 (2018.01.21)[/B]
 - Fixed automatic settings backup.
 
