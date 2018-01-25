@@ -1,4 +1,8 @@
 
+[B]1.1.9 (2018.01.25)[/B]
+- Added page limit for scraping.
+- Better detection of short titles.
+
 [B]1.1.8 (2018.01.24)[/B]
 - Fixed IMDb lists.
 - Fixed the preemptive termination overwrite.
