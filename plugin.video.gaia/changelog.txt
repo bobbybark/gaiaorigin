@@ -1,4 +1,11 @@
 
+[B]1.2.1 (2018.01.28)[/B]
+- Important: Reauthenticate your Alluc account.
+- Added Alluc API limit notification.
+- Support for multiple Alluc accounts.
+- Fixed OffCloud hoster cloud download dialog.
+- Force disable subtitles.
+
 [B]1.2.0 (2018.01.26)[/B]
 - Fixed autoplay termination and filters.
 
