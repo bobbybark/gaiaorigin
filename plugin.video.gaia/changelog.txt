@@ -1,4 +1,8 @@
 
+[B]1.2.2 (2018.02.03)[/B]
+- Faster changes of custom provider locations.
+- Fixed show lists for networks.
+
 [B]1.2.1 (2018.01.28)[/B]
 - Important: Reauthenticate your Alluc account.
 - Added Alluc API limit notification.
