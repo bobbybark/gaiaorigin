@@ -1,4 +1,7 @@
 
+[B]1.2.3 (2018.02.04)[/B]
+- Fixed episode lists without titles.
+
 [B]1.2.2 (2018.02.03)[/B]
 - Faster changes of custom provider locations.
 - Fixed show lists for networks.
