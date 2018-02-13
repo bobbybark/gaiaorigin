@@ -1,4 +1,7 @@
 
+[B]1.3.0 (2018.02.13)[/B]
+- New ResolveUrl and help icons.
+
 [B]1.0.0 (2018.01.12)[/B]
 - Initial release.
 - New icons.
