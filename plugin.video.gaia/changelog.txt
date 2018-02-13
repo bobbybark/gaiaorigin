@@ -1,4 +1,17 @@
 
+[B]1.3.0 (2018.02.13)[/B]
+- Added support for ResolveUrl.
+- Added Premiumize cache inspection for hoster links.
+- The support FAQ can now be accessed directly from the addon.
+- Autoplay now tries to pick a cached service before falling back to downloading.
+- Added status colors for custom provider locations.
+- Support for custom progress in order to mark streams as watched.
+- Added Trakt category for unfinished movies and episode.
+- Finer tuned title filtering in order to avoid irrelevant streams.
+- Fixed playback of local files.
+- Fixed titles without episodes for season packs.
+- Fixed overwrite preemptive termination for early timeouts.
+
 [B]1.2.3 (2018.02.04)[/B]
 - Fixed episode lists without titles.
 
